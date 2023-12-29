@@ -6,10 +6,11 @@ Before that, he received the bachelor degree in computer science from Hohai Univ
 
 Afterward, he took two gap years (2021-2023) doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDelong1999" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenDelong1999" />
 
 💡 **Research interests**
-  - Multi-modal LLMs, vision language learning
+  - Multi-modal LLMs
+  - Vision language learning
   - Self-supervised visual representation learning
-  - Music information retrieval
+  - Music information retrieval (MIR)
 
