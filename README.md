@@ -1,7 +1,5 @@
 
 
-[**Delong Chen (陈德龙)**](https://chendelong.world/) is now a first-year Ph.D. student at the [Centre for Artificial Intelligence Research (CAiRE)](https://caire.hkust.edu.hk/) of Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/about.html). Before that, he received the bachelor degree in computer science from Hohai University (河海大学) in 2021, where he was advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2013/0508/c4122a54931/page.htm) (刘凡) at the [Artificial Intelligence of Multi-modality Group (AIM Group)](https://multimodality.group/). Afterward, he took two gap years (2021-2023) doing internships at [MEGVII Research](https://en.megvii.com), [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Xiaobing.AI](https://www.xiaoice.com/), respectively working on vision-language pretraining, vision-language for embodied AI, and multimodal LLMs. 
+Delong Chen (陈德龙) is a first-year Ph.D. student at HKUST under the supervision of Prof. Pascale Fung. Before that, he received a bachelor's degree of computer science in 2021 from Hohai University (河海大学), where he was advised by Prof. Fan Liu (刘凡). Afterward, he took two gap years doing internships at MEGVII, MSRA, and Xiaobing. He is now working on multimodal (vision-language) learning and self-supervised representation learning (SSL).
 
 [comment]: <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ChenDelong1999" />
-
-💡 **Research interests**: vision-language learning, multi-modal LLMs, self-supervised visual representation learning, music information retrieval (MIR)
