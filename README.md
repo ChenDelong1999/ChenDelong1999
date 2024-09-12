@@ -1,5 +1,5 @@
 
 
-Delong Chen (陈德龙) is a Ph.D. student (2023-present) at HKUST under the supervision of Prof. Pascale Fung. Before that, he received a bachelor's degree of computer science in 2021 from Hohai University, where he was advised by Prof. Fan Liu. Afterward, he took two gap years doing internships at MEGVII, MSRA, and Xiaobing.AI. He is now working on vision-language and representation learning.
+Delong Chen (陈德龙) is a PhD student at HKUST under the supervision of Prof. Pascale Fung. He received a B.Eng degree in computer science and technology in 2021 from Hohai University, where he was advised by Prof. Fan Liu. He is working on multimodal (vision-language) learning.
 
 [comment]: <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ChenDelong1999" />
